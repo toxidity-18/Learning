@@ -6,4 +6,11 @@
 - Define my target customer group 
 - Explore their unique needs 
 - Write a value proposition for each 
+___
+* Value proposition : communicates is unique benefit to it''s consumers and drive product development , customer acquisition and retention .
+
+## Why Tree . . .
+* What is the problem am trying to solve for my clients : 
+
+___
 
